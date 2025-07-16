@@ -1,4 +1,4 @@
-# 🚆 RailEase – Railway Reservation System
+# RailEase – Railway Reservation System
 
 RailEase is a **command-line Railway Reservation System** created as a project for the **Data Structures and Algorithms** course at **Air University**. It demonstrates real-world applications of **linked lists**, **queues**, **maps**, and **graph algorithms** to manage train schedules, reservations, and routes.
 
